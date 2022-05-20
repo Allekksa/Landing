@@ -446,6 +446,7 @@ body {
 }
 
 .footer__adress {
+  display: block;
   margin-bottom: 30px;
   font-style: normal;
   font-weight: 400;
